@@ -1,0 +1,17 @@
+.nannaBox {
+  margin: 50px 50px 50px 50px;
+  font-size: large;
+  font-family: monospace;
+  background-color: rgb(39, 33, 77);
+  color: yellow;
+  border: 1px black solid;
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 70px 20px green;
+}
+.conainer {
+  background-color: rgb(103, 58, 146);
+}
+body {
+  background-color: rgb(119, 97, 97);
+}

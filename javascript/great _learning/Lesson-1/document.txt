@@ -1,0 +1,183 @@
+#document
+URL: "file:///E:/wev_dev/javascript/great%20_learning/Lesson-1/index.html"
+activeElement: body
+adoptedStyleSheets: []
+alinkColor: ""
+all: HTMLAllCollection(10) [html, head, meta, meta, script, link, title, body, div.conainer, h1, viewport: meta]
+anchors: HTMLCollection []
+applets: HTMLCollection []
+baseURI: "file:///E:/wev_dev/javascript/great%20_learning/Lesson-1/index.html"
+bgColor: ""
+body: body
+characterSet: "UTF-8"
+charset: "UTF-8"
+childElementCount: 1
+childNodes: NodeList(2) [html, html]
+children: HTMLCollection [html]
+compatMode: "CSS1Compat"
+contentType: "text/html"
+cookie: ""
+currentScript: null
+defaultView: Window {parent: Window, opener: null, top: Window, length: 0, frames: Window, …}
+designMode: "off"
+dir: ""
+doctype: html
+documentElement: html
+documentURI: "file:///E:/wev_dev/javascript/great%20_learning/Lesson-1/index.html"
+domain: ""
+embeds: HTMLCollection []
+featurePolicy: FeaturePolicy {}
+fgColor: ""
+firstChild: html
+firstElementChild: html
+fonts: FontFaceSet {onloading: null, onloadingdone: null, onloadingerror: null, ready: Promise, status: "loaded", …}
+forms: HTMLCollection []
+fullscreen: false
+fullscreenElement: null
+fullscreenEnabled: true
+head: head
+hidden: false
+images: HTMLCollection []
+implementation: DOMImplementation {}
+inputEncoding: "UTF-8"
+isConnected: true
+lastChild: html
+lastElementChild: html
+lastModified: "10/10/2020 16:02:48"
+linkColor: ""
+links: HTMLCollection []
+location: Location {href: "file:///E:/wev_dev/javascript/great%20_learning/Lesson-1/index.html", ancestorOrigins: DOMStringList, origin: "file://", protocol: "file:", host: "", …}
+nextSibling: null
+nodeName: "#document"
+nodeType: 9
+nodeValue: null
+onabort: null
+onanimationend: null
+onanimationiteration: null
+onanimationstart: null
+onauxclick: null
+onbeforecopy: null
+onbeforecut: null
+onbeforepaste: null
+onblur: null
+oncancel: null
+oncanplay: null
+oncanplaythrough: null
+onchange: null
+onclick: null
+onclose: null
+oncontextmenu: null
+oncopy: null
+oncuechange: null
+oncut: null
+ondblclick: null
+ondrag: null
+ondragend: null
+ondragenter: null
+ondragleave: null
+ondragover: null
+ondragstart: null
+ondrop: null
+ondurationchange: null
+onemptied: null
+onended: null
+onerror: null
+onfocus: null
+onformdata: null
+onfreeze: null
+onfullscreenchange: null
+onfullscreenerror: null
+ongotpointercapture: null
+oninput: null
+oninvalid: null
+onkeydown: null
+onkeypress: null
+onkeyup: null
+onload: null
+onloadeddata: null
+onloadedmetadata: null
+onloadstart: null
+onlostpointercapture: null
+onmousedown: null
+onmouseenter: null
+onmouseleave: null
+onmousemove: null
+onmouseout: null
+onmouseover: null
+onmouseup: null
+onmousewheel: null
+onpaste: null
+onpause: null
+onplay: null
+onplaying: null
+onpointercancel: null
+onpointerdown: null
+onpointerenter: null
+onpointerleave: null
+onpointerlockchange: null
+onpointerlockerror: null
+onpointermove: null
+onpointerout: null
+onpointerover: null
+onpointerrawupdate: null
+onpointerup: null
+onprogress: null
+onratechange: null
+onreadystatechange: null
+onreset: null
+onresize: null
+onresume: null
+onscroll: null
+onsearch: null
+onsecuritypolicyviolation: null
+onseeked: null
+onseeking: null
+onselect: null
+onselectionchange: null
+onselectstart: null
+onstalled: null
+onsubmit: null
+onsuspend: null
+ontimeupdate: null
+ontoggle: null
+ontransitionend: null
+onvisibilitychange: null
+onvolumechange: null
+onwaiting: null
+onwebkitanimationend: null
+onwebkitanimationiteration: null
+onwebkitanimationstart: null
+onwebkitfullscreenchange: null
+onwebkitfullscreenerror: null
+onwebkittransitionend: null
+onwheel: null
+ownerDocument: null
+parentElement: null
+parentNode: null
+pictureInPictureElement: null
+pictureInPictureEnabled: true
+plugins: HTMLCollection []
+pointerLockElement: null
+previousSibling: null
+readyState: "complete"
+referrer: ""
+rootElement: null
+scripts: HTMLCollection [script]
+scrollingElement: html
+styleSheets: StyleSheetList {0: CSSStyleSheet, length: 1}
+textContent: null
+timeline: DocumentTimeline {currentTime: 3757.185}
+title: "Document"
+visibilityState: "visible"
+vlinkColor: ""
+wasDiscarded: false
+webkitCurrentFullScreenElement: null
+webkitFullscreenElement: null
+webkitFullscreenEnabled: true
+webkitHidden: false
+webkitIsFullScreen: false
+webkitVisibilityState: "visible"
+xmlEncoding: null
+xmlStandalone: false
+xmlVersion: null
+__proto__: HTMLDocument

@@ -1,0 +1,29 @@
+<div class="container">
+ <h2>RESULTS !!! </h2>   
+<table class="table table-dark  table-striped table-bordered nanna">
+    <thead>
+        <tr class="headline">
+            <th>Title </th>
+            <th>Word Count </th>
+            <th>Snippet </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of pages">
+            
+            <a [href]=" 'http://en.wikipedia.org/wiki?curid='+item.pageid " target="_blank" class="headline">
+                
+            <td>
+                
+                {{item.title}}
+            </td>
+           
+            </a> 
+            
+            <td>{{item.wordcount}}</td>
+            <td [innerHTML]="item.snippet"></td>
+        </tr>
+    </tbody>
+</table>
+
+</div>

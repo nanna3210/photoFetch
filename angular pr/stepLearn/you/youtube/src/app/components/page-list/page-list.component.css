@@ -1,0 +1,18 @@
+.headline { 
+
+
+    color: bisque;
+    text-decoration: unset;
+    /* list-style: unset; */
+}
+.headline :hover { 
+    color: tomato;
+    font-size: 25px;
+    /* transform: 2s; */
+    transition: 1s;
+}
+.nanna { 
+    font-size: 23px;
+    font-family: monospace;
+    /* letter-spacing: 1px; */
+}

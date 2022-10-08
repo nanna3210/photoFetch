@@ -7,7 +7,7 @@ export class WikipediaService {
 
   constructor(private httpClient :HttpClient) { }
 
-
+// couldnot understand
   onSearch(term :string ) { 
     
 
